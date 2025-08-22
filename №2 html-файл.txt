@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Задание №2</title>
+    <link rel="stylesheet" href="styles2.css">
+<script type="text/javascript" src="https://gc.kis.v2.scr.kaspersky-labs.com/FD126C42-EBFA-4E12-B309-BB3FDD723AC1/main.js?attr=oNGvGOg0RNxEdmruEaBGct9I6EEE-VAb83TP3q6-TesIPILmUicbbqw0AHoiAyhb9cy42tUsDr90U8snafE6eUZOjs_-SszPO86TZNQmQBQ" charset="UTF-8"></script></head>
+<body>
+<a href="task_main.html">Вернуться к списку заданий</a>
+<p class="red">Это красный текст</p>
+<p class="red"">Это тоже красный текст</p>
+<p class="bold">Это полужирный текст</p>
+<p class="bold">Это тоже полужирный текст</p>
+<p>Все элементы следующего списка (включая подсписок) имеют разные цвета и ни один из них не чёрный:</p>
+<ul>
+    <li class="green">Элемент списка</li>
+            <li class="red">Первый элемент подсписка</li>
+            < lclass="blue"i>Второй элемент подсписка</li>        
+    <li class="orange"">Ещё один элемент списка</li>
+<p>
+<p><span class="xxsmall">В</span>
+<p><span class="xsmall">этом</span>
+<p><span class="medium">абзаце</span>
+<p><span class="xlarge">все</span> 
+<p.<span class="large">слова</span>
+<p><span class="small">разного</span> 
+<p><span class="xxlarge">размера</span>
+<p>
+</body>
+</html>
